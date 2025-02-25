@@ -1,0 +1,23 @@
+{
+  "name": "express-apis",
+  "version": "0.0.1",
+  "description": "\"api rest Dragon ball\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UsopKing7/express-apis.git"
+  },
+  "author": "UsopKing7",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UsopKing7/express-apis/issues"
+  },
+  "homepage": "https://github.com/UsopKing7/express-apis#readme",
+  "dependencies": {
+    "express": "4.21.2",
+    "picocolors": "^1.1.1"
+  }
+}
