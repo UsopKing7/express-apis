@@ -1,2 +1,21 @@
-### get de la api de goku
+### get index
 GET http://localhost:8080/
+
+### get 
+GET http://localhost:8080/goku.json
+
+### post goku
+POST http://localhost:8080/goku.json
+Content-Type: application/json
+
+{
+   "name": "nicolas"
+}
+
+### vegeta
+POST http://localhost:8080/vegete.json
+Content-Type: application/json
+
+{
+   "name": "nicolas2"
+}
